@@ -19,13 +19,25 @@ Kaggle 보험 사기 감지 데이터셋 활용.
 
 # 코드 샘플
 ### 데이터 시각화
+![화면 캡처 2025-04-02 133558](https://github.com/user-attachments/assets/8ea5c6e0-288c-49d1-82dd-95c889b0179b)
+
 
 ### 데이터 전처리
+![화면 캡처 2025-04-02 133640](https://github.com/user-attachments/assets/a6a8fc3d-1889-421a-bffc-b444eee0f028)
+
 
 ### 데이터 불균형 파악 및 샘플링을 통한 해소
+![화면 캡처 2025-04-02 133715](https://github.com/user-attachments/assets/5f0ea07d-202d-4522-a065-ec74d967ddd1)
+![화면 캡처 2025-04-02 133945](https://github.com/user-attachments/assets/f81b9c50-4833-44bf-a939-c055a0a7d1a2)
+
 
 ### 상관도 분석을 통한 데이터 특징 선별
+![화면 캡처 2025-04-02 133840](https://github.com/user-attachments/assets/641d3317-16e2-46e1-be18-8b54c62a0c13)
+
 
 ### 그리드 서치를 통한 최적 파라미터 탐색 자동화
+![화면 캡처 2025-04-02 134041](https://github.com/user-attachments/assets/c08b3dac-8896-4da9-934a-debe21d7daa0)
 
-### XAI 를 위하여 결과에 영항을 끼치는 특징 시각화, 선별, 분석
+
+### 결과에 영항을 끼치는 특징 시각화, 선별, 분석
+![화면 캡처 2025-04-02 134133](https://github.com/user-attachments/assets/c71dd6c3-a1e7-4dce-8fc4-2d2a5526425b)
